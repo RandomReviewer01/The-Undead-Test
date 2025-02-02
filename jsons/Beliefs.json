@@ -8,8 +8,8 @@
     {
         "name": "Used to Death",
         "type": "Founder",
-        "uniques": ["Resting point for Influence with City-States following this religion [+15]"],
-      "[-100]% City-State Influence degradation",
+        "uniques": ["Resting point for Influence with City-States following this religion [+15]",
+      "[-100]% City-State Influence degradation"],
       "uniqueTo": "The Undead",
     }
 ]
