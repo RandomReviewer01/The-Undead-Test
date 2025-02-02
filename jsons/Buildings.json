@@ -105,5 +105,18 @@
 		"maintenance": 5,
 		"hurryCostModifier": 0,
 		"requiredTech": "Agriculture"
+	},
+	{
+		"name": "Death Knight Training Ground",
+		"uniqueTo": "The Undead",
+		"uniques": ["New [Military] units start with [25] Experience [in this city]", "Destroyed when the city is captured"],
+			"[+25]% Production when constructing [Military] units [in this city]",]
+		"replaces": Barracks
+		"food": 0,
+		"happiness": 0,
+		"culture": 2,
+		"maintenance": 5,
+		"hurryCostModifier": 0,
+		"requiredTech": "Agriculture"
 	}
 ]
