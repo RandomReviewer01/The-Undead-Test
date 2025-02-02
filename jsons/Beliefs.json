@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Undeath",
+        "uniqueTo": "The Undead",
+        "type": "Pantheon",
+        "uniques": ["[+1 Faith, +1 Culture] from every [Graveyard]"]
+    },
+    {
+        "name": "Used to Death",
+        "type": "Founder",
+        "uniques": ["Resting point for Influence with City-States following this religion [+15]"],
+      "[-100]% City-State Influence degradation",
+      "uniqueTo": "The Undead",
+    }
+]
