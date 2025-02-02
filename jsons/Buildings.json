@@ -97,8 +97,8 @@
 	{
 		"name": "Hell's Portal",
 		"uniqueTo": "The Undead",
-		"uniques": "[+15]% Production when constructing [All] wonders [in this city]",
-			"[+25]% Production when constructing [Military] units [in this city]",
+		"uniques": ["[+15]% Production when constructing [All] wonders [in this city]",
+			"[+25]% Production when constructing [Military] units [in this city]",]
 		"food": 0,
 		"happiness": 10,
 		"culture": 5,
