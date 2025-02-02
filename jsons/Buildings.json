@@ -7,8 +7,7 @@
         "happiness": 5,
         "culture": 1,
         "isNationalWonder": true,
-		"uniques": ["Only available <if [Colosseum] is constructed in all [non-[Puppeted]] cities>",
-			"Cost increases by [30] per owned city",
+		"uniques": ["Cost increases by [30] per owned city",
 			"All newly-trained [non-[Air]] units [in this city] receive the [Rejuvenation] promotion"],
         "requiredTech": "Horseback Riding"
     },
@@ -19,8 +18,7 @@
 		"cost": 125,
 		"culture": 1,
 		"isNationalWonder": true,
-		"uniques": ["Only available <if [Monument] is constructed in all [non-[Puppeted]] cities>",
-			"[-25]% Gold cost of acquiring tiles [in all cities]",
+		"uniques": ["[-25]% Gold cost of acquiring tiles [in all cities]",
 			"All newly-trained [non-[Air]] units [in this city] receive the [Hard to Kill Twice] promotion",
 			"Cost increases by [30] per owned city"],
 		"requiredTech": "Philosophy"
