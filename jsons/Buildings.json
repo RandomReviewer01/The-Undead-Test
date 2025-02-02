@@ -109,8 +109,9 @@
 	{
 		"name": "Death Knight Training Ground",
 		"uniqueTo": "The Undead",
-		"uniques": ["New [Military] units start with [25] Experience [in this city]", "Destroyed when the city is captured"],
+		"uniques": ["New [Military] units start with [25] Experience [in this city]",
 			"[+25]% Production when constructing [Military] units [in this city]",
+			"Destroyed when the city is captured"],
 		"replaces": Barracks
 		"maintenance": 5,
 		"hurryCostModifier": 25,
