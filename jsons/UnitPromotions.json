@@ -4,6 +4,10 @@
 		"uniques": ["Uncapturable", "[-10]% Strength <vs [Military] units>", "May capture killed [Military] units", "[-5] HP when healing"]
 	},
 	{
+		"name": "Knight of Death",
+		"uniques": ["[+50]% Strength <vs cities> <when attacking>","Double movement",]
+	},
+	{
 		"name": "Breach the Walls",
 		"uniques": ["[+15]% Strength <vs cities> <when attacking>","Double movement in [Fallout]", "[+10]% Strength <when fighting in [Fallout] tiles>"]
 	},
