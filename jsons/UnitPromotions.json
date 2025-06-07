@@ -21,7 +21,7 @@
 	},
 	{
 		"name": "Sickening Plague",
-		"uniques": ["[-10]% Strength for enemy [Military] units in adjacent [All] tiles", "[+5]% Strength <vs [Wounded] units>"]
+		"uniques": ["[-15]% Strength for enemy [Military] units in adjacent [All] tiles", "[+25]% Strength <vs [Wounded] units>"]
 	},
 	{
 		"name": "Summon the Lich King",
